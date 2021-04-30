@@ -1,0 +1,4 @@
+kimonk,Kimon Konstantinou,123456,Edinburgh,772-976-2843,Full-Time
+andreak,Andrea Karsouma,654321,Edinburgh,793-801-6157,Full-Time
+davidt,David Tennant,889489,Edinburgh,772-986-2888,Full-Time
+mariosm,Marios Karsouma,598494,Glasgow,772-986-2888,Part-Time
